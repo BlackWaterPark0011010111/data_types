@@ -13,6 +13,7 @@ print("Decimal:", decimal_from_binary)
 print("-----------------------------------------------------------------------------2-------")
 
 #decimal to hexadecimal
+
 hexadecimal_number = hex(decimal_number)
 print("Hexadecimal:", hexadecimal_number)
 
